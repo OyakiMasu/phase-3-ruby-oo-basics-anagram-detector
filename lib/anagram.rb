@@ -8,3 +8,5 @@ class Anagram
 
 end
 wf = Anagram.new
+
+binding.pry
